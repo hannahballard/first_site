@@ -1,14 +1,22 @@
-h1 { 
-color: red; 
-}
-p { 
-color: blue;
-font-family: "Helvetica";
-font-size: 16px;
-}
-ul { background-color: blue;}
-h2 { 
-color: green;
-background-color: orange;
-}
-ol { background-color: teal;}
+header {
+      text-align: center; 
+      color: white;
+    }
+body {
+      background-color: rgba(100,200,200,1)
+    }
+h1 {
+      font-size: 70px;
+      font-family: "Book Antiqua";
+      color: rgba(0,100,100,0.7);
+      background-color: rgba(255,255,255,0.2);
+    }
+img {
+      margin: 40px 0px 0px 0px;
+      border: 5px solid #ABC;
+      border-radius: 50px;
+    }
+ul {
+      padding: 10px;
+      background: rgba(255,100,100,0.2);
+    }
